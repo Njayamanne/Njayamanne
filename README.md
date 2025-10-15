@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimesh Jayamanne</h1>
-<h3 align="center">Front End developer, Youtuber and Computer science Teacher</h3>
+<h3 align="center">Front End developer, Youtuber, Cybersecurity Engineer and Computer science Teacher</h3>
+
+<p>I am a proactive and principled security professional driven by the ethical imperative of protecting data privacy in a digital world. My strengths in strategic problem-solving, leadership, and meticulous time management enable me to effectively identify vulnerabilities and uphold robust security protocols. I am passionate about applying my commitment to continuous learning and diligent protection to help organizations safeguard their most critical assets and maintain stakeholder trust.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njayamanne&label=Profile%20views&color=0e75b6&style=flat" alt="njayamanne" /> </p>
 
