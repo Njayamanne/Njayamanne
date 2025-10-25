@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=njayamanne&label=Profile%20views&color=0e75b6&style=flat" alt="njayamanne" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=njayamanne" alt="njayamanne" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/cysstemacademy" target="blank"><img src="https://img.shields.io/twitter/follow/cysstemacademy?logo=twitter&style=for-the-badge" alt="cysstemacademy" /></a> </p>
 
